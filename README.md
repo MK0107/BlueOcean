@@ -1,6 +1,6 @@
-# Blue Ocean
+# Kane Academy
 
-  Blue Ocean is a business oriented academic skills share web applicaton for anyone in the world.
+  Kane Academy is a business oriented academic skills share web applicaton for anyone in the world.
 
 ## Installation
 
