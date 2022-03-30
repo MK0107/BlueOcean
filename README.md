@@ -4,7 +4,7 @@
 
 ## Installation
 
-  Use the package manager 'npm' to install dependencies and run scripts to start server and bundle.
+  Use the package manager 'npm' to install dependencies and run scripts to start server and webpack.
 
 ```bash
 npm install
