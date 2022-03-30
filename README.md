@@ -25,3 +25,8 @@ npm run react-dev
   For major changes, please open an issue first to discuss what you would like to change.
 
   Please make sure to update tests and dependencies as appropriate.
+
+
+## License
+
+  Minseo Kim @Hack Reactor
