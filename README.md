@@ -19,7 +19,7 @@ npm run react-dev
 ## Usage
 
   All users can log in via google OAuth or native account creation through the application. 
-  Once accessed, mentors can teach paid skills to anyone in the world with conveninece of Google calendar and Socket.io for meesage/video chat. 
+  Once accessed, mentors can teach paid skills to anyone in the world with convenience of Google calendar and Socket.io for meesage/video chat. 
   And, students can search for mentor and skill via smart search on the landing page and sign up for classes they are interested in.
   
 
