@@ -1,3 +1,7 @@
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/87378829/161333463-0e404de7-2a4a-4f71-a19e-724e093b90b3.gif)
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/87378829/161333467-98517f09-4e44-446b-aa2c-ea7e23635c2a.gif)
+
 # Kane Academy
 
   Kane Academy is a business oriented academic skills share web applicaton for anyone in the world.
