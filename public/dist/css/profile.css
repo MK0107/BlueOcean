@@ -1,0 +1,105 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.review {
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+/* .blurb { */
+  /* width: 60%; */
+/* } */
+
+.profileRoot {
+  margin: auto;
+  /* margin-top: 20px; */
+  width: 98vw;
+  height:98vh;
+}
+
+.reviewsWindow {
+  /* width: 95vw; */
+  height:50vh;
+  overflow-y: scroll;
+  padding-right: 17px; /* Increase/decrease this value for cross-browser compatibility */
+  box-sizing: content-box; /* So the width will be 100% + 17px */
+}
+
+#muiPrimary {
+  background-color: #4F80AD;
+  color: white;
+}
+
+#muiSecondary {
+  background-color: #C0A0CA;
+  color: white;
+}
+
+#muiGradient {
+  background-image: linear-gradient(to left bottom, #4f80ad, #6f88b8, #8c8fc0, #a797c6, #c0a0ca);
+  color: white;
+}
+
+#muiGradient2 {
+  background-image: radial-gradient(circle, #c0a0ca, #a797c6, #8c8fc0, #6f88b8, #4f80ad);
+  color: white;
+}
+
+#muiSecondaryText {
+  color: darkslateblue;
+  font-weight: 900;
+}
+
+html {
+  background-color: #DDE9F9;
+  color: darkslateblue;
+}
+
+#searchUL {
+  padding: 0;
+  margin-left: 0;
+}
+
+.homeAbout {
+  /* margin-top: 120px; */
+}
+
+/* #homeBody {
+  display: grid;
+  grid-template-areas:
+    "Search Cal Cal Cal"
+    "Skill Cal Cal Cal"
+    "Skill Cal Cal Cal"
+    "Skill Cal Cal Cal";
+}
+
+#homeContainer {
+
+}
+
+#homeCal {
+  grid-area: Cal;
+}
+
+#homeSearchField {
+  grid-area: Search;
+}
+
+#homeSearchResults {
+  width: 600px;
+  grid-area: Skill;
+} */
+
+/* #calContainer {
+  /* display: flex;
+  flex-direction: column; */
+
+
+#muiGradient2:hover {
+  background-image: radial-gradient(circle, #4f80ad, #6f88b8, #8c8fc0, #a797c6, #c0a0ca);
+}
+
+#calCal {
+  margin: 0 auto;
+}
